@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Qua \u00e9 o tratamento?\r\n", 
+  "language": "por_ao", 
+  "title": "Qua \u00e9 o tratamento?", 
+  "primary_category": "075da17a13384ed6adc63caf06d194f4", 
+  "created_at": "2015-02-25T15:34:52.278551+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-25T15:34:52.278772+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Os indiv\u00edduos gravemente doentes necessitam de cuidados de suporte intensivos. Est\u00e3o frequentemente desidratados e necessitam de fluidos intravenosos ou de reidrata\u00e7\u00e3o oral com solu\u00e7\u00f5es de electr\u00f3litos. Actualmente, n\u00e3o existe tratamento espec\u00edfico para curar a doen\u00e7a. \r\n\r\nCom cuidados m\u00e9dicos adequados, alguns doentes recuperam.\r\n\r\nNo sentido de controlar a dissemina\u00e7\u00e3o adicional do v\u00edrus, as pessoas suspeitas de ter a doen\u00e7a, bem como os doentes confirmados, dever\u00e3o ser isoladas de outros doentes e tratadas por profissionais de sa\u00fade usando precau\u00e7\u00f5es estritas de controlo da infec\u00e7\u00e3o.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "qua-e-o-tratamento", 
+  "uuid": "b66213460c954beb834eb40d6c52a930"
+}
