@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "O que \u00e9 a doen\u00e7a do v\u00edrus \u00c9bola?", 
+  "language": "por_ao", 
+  "title": "O que \u00e9 a doen\u00e7a do v\u00edrus \u00c9bola?", 
+  "primary_category": "075da17a13384ed6adc63caf06d194f4", 
+  "created_at": "2015-02-25T15:10:53.155444+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-25T15:10:53.155749+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A doen\u00e7a do v\u00edrus \u00c9bola (at\u00e9 h\u00e1 pouco tempo conhecida como febre hemorr\u00e1gica de \u00c9bola) \u00e9 uma doen\u00e7a grave, muitas vezes fatal, com uma taxa de mortalidade de at\u00e9 90%. A doen\u00e7a afecta seres humanos e primatas n\u00e3o-\u00ad\u2010humanos (macacos, gorilas e chimpanz\u00e9s). Esta doen\u00e7a surgiu pela primeira vez em 1976, em dois surtos simult\u00e2neos, um numa povoa\u00e7\u00e3o situada perto do rio \u00c9bola, na Rep\u00fablica Democr\u00e1tica do Congo, e outro numa \u00e1rea remota do Sud\u00e3o. A origem do v\u00edrus \u00e9 desconhecida, mas, com base nas evid\u00eancias dispon\u00edveis, os morcegos frug\u00edvoros da fam\u00edlia Pteropodidae s\u00e3o considerados o hospedeiro natural mais prov\u00e1vel do v\u00edrus \u00c9bola.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "o-que-e-doenca-do-virus-ebola", 
+  "uuid": "b69febc359ac429d81ca895058f3d507"
+}
