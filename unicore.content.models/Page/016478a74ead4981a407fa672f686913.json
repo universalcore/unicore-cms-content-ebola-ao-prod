@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "O que posso fazer? Posso evitar a infec\u00e7\u00e3o? Existe uma vacina?", 
+  "language": "por_ao", 
+  "title": "O que posso fazer? Posso evitar a infec\u00e7\u00e3o? Existe uma vacina?", 
+  "primary_category": "075da17a13384ed6adc63caf06d194f4", 
+  "created_at": "2015-02-25T15:37:51.595016+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-25T15:37:51.595252+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "De momento, n\u00e3o existe nenhum medicamento ou vacina licenciados para a doen\u00e7a do v\u00edrus \u00c9bola, mas existem v\u00e1rios produtos em desenvolvimento.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "o-que-posso-fazer-posso-evitar-infeccao-existe-uma-vacina", 
+  "uuid": "016478a74ead4981a407fa672f686913"
+}
