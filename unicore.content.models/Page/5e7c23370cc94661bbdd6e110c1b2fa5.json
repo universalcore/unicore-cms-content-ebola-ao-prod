@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Quais os sinais e sintomas t\u00edpicos da infec\u00e7\u00e3o?", 
+  "language": "por_ao", 
+  "title": "Quais os sinais e sintomas t\u00edpicos da infec\u00e7\u00e3o?", 
+  "primary_category": "075da17a13384ed6adc63caf06d194f4", 
+  "created_at": "2015-02-25T15:30:25.716030+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-25T15:30:25.716295+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "S\u00e3o sinais e sintomas t\u00edpicos o aparecimento s\u00fabito de febre, a fraqueza extrema, dores musculares, dor de cabe\u00e7a e dor de garganta. Seguem-\u00ad\u2010se v\u00f3mitos, diarreia, exantema cut\u00e2neo, fal\u00eancia renal e hep\u00e1tica e, nalguns casos, hemorragias internas e externas. Os resultados laboratoriais incluem contagens baixas de gl\u00f3bulos brancos e plaquetas e enzimas hep\u00e1ticas elevadas. O per\u00edodo de incuba\u00e7\u00e3o, ou intervalo de tempo entre a infec\u00e7\u00e3o e o aparecimento de sintomas, \u00e9 de 2 a 21 dias. O doente torna-\u00ad\u2010se contagioso quando come\u00e7a a apresentar sintomas. N\u00e3o \u00e9 contagioso durante o per\u00edodo de incuba\u00e7\u00e3o. As infec\u00e7\u00f5es pelo v\u00edrus \u00c9bola s\u00f3 podem ser confirmadas atrav\u00e9s de testes laboratoriais.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quais-os-sinais-e-sintomas-tipicos-da-infeccao", 
+  "uuid": "5e7c23370cc94661bbdd6e110c1b2fa5"
+}
