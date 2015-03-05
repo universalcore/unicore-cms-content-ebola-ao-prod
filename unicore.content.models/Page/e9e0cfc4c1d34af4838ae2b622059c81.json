@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "De que forma a OMS protege a sa\u00fade durante os surtos?", 
-  "language": "por_ao", 
+  "language": "por_AO", 
   "title": "De que forma a OMS protege a sa\u00fade durante os surtos?", 
   "primary_category": "075da17a13384ed6adc63caf06d194f4", 
-  "created_at": "2015-02-26T14:08:40.875285+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-02-26T14:26:32.401179+00:00", 
+  "created_at": "2015-02-26T14:08:40+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-03-05T12:43:31.584366+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
