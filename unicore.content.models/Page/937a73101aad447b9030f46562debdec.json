@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "\u00c9 seguro viajar durante um surto? O que aconselha a OMS?", 
-  "language": "por_ao", 
+  "language": "por_AO", 
   "title": "\u00c9 seguro viajar durante um surto? O que aconselha a OMS?", 
   "primary_category": "075da17a13384ed6adc63caf06d194f4", 
   "created_at": "2015-02-26T14:23:28+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-02-26T14:26:32.266413+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-03-05T12:43:57.384563+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
