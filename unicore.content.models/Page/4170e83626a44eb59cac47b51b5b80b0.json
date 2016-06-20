@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f234340f68314f6495a585cc0a9e56e5"
+  ], 
   "id": null, 
   "content": "A febre-amarela \u00e9 uma doen\u00e7a causada por um v\u00edrus transmitido pelo mosquito Aedes Aegypti. \u00c9 chamada assim porque o corpo da pessoa doente pode torna-se amarelado, sendo mais vis\u00edvel nos olhos e na pele.\r\n\r\n**At\u00e9 que ponto a febre-amarela afecta as pessoas?** \r\n\r\nEm 100 pessoas infectadas pelo v\u00edrus da febre-amarela, 15 a 20 adoecem gravemente e podem acabar em \u00f3bito. Por isso \u00e9 que a febre-amarela s\u00f3 pode ser tratada na Unidade Sanit\u00e1ria, e s\u00f3 deve tomar medicamentos receitados. ", 
   "source": null, 
